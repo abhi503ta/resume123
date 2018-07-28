@@ -4,5 +4,37 @@
 		"image":"image3.png",
 		"phone":"8186924439",
 		"email":"abhignatatikonda@gmail.com"
-	}
+	},
+	"education":[
+		{
+			"course":"B.Tech",
+			"college":"MIC college",
+			"per":"99%"
+
+		},
+		{
+			"course":"Intermediate(MPC)",
+			"college":"vidya bharathi",
+			"per":"96%"
+		},
+		{
+			"course":"SSC",
+			"college":"little angles",
+			"per":"97%"
+		}
+	],
+	"skills":[
+	{
+		"title":"programming languages",
+		"output":[
+		   "C","C++","java","python"]
+	},
+	{
+		"title":"Operating Systems",
+		"output":[
+			"Windows","Linux","MAC"]
+	}],
+	"carrier":{
+	"co":"To associate with organization and utilize my technical skills to the growth of our company.i am here to develop our knowledge and to help to maintain our company in a good place among all.i will be selfresponsible towards the work "}
 }
+
